@@ -6,7 +6,7 @@
     const phone = document.getElementById('phone').value;
 
     // Ваши данные
-    const message = `Имя: ${name}\nНомер: ${phone}`;
+    const message = `Телефон: ${name}\nМатериал: ${phone}`;
 
     // Конфигурация
     const token = '7831903358:AAHIkRNmstPV5QYoRC5GYqGiuGppTlLiotk'; // вставьте сюда токен бота
